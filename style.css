@@ -12,13 +12,17 @@
     background-color: #ffff;
     max-width: 736px;
     margin-inline: auto;
+    margin-block: 64px;
+    padding: 40px;
+    border-radius: 24px;
   }
 
   div img {
     width: 100%;
+    border-radius: 12px;
+    margin-bottom: 40px;
   }
 
   h1, h2 {
     font-family: 'lora', serif;
   }
-  
